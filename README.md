@@ -27,3 +27,5 @@ Aliquam commodo metus mauris, lacinia facilisis nisl malesuada ac.
 > Key information users need to know to achieve their goal.
 
 ------
+
+##Now have a  script to make hexadecimal numbers to binaries
